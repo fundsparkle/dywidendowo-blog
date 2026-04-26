@@ -1,0 +1,17 @@
+baseurl = "/"
+title = "Dywidendowo blog"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Inwestor."
+    description = "Pokazuję swoją drogę do pasywnego dochodu 2500zł miesięcznie z dywidend."
+    twitter = "https://x.com/dywidendowopl"
+    email = "dywidendowo@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:contentbasename/"

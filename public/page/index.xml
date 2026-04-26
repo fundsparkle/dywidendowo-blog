@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Dywidendowo blog</title>
+    <link>//localhost:1313/page/</link>
+    <description>Recent content in Pages on Dywidendowo blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Apr 2024 09:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/page/about/</link>
+      <pubDate>Thu, 04 Apr 2024 09:00:00 +0000</pubDate>
+      <guid>//localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;W związku z potrzebą prowadzenia dziennika inwestycyjnego założyłem bloga &lt;a href=&#34;http://dywidendowo.pl&#34;&gt;dywidendowo.pl&lt;/a&gt; na którym będę dodawał informacje o zakupach i sprzedaży spółek. Ponadto pojawią się analizy giełdowe i co najważniejsze pojawią się komentarze i uwagi do moich zakupów do których dodawania serdecznie zapraszam!&lt;/p&gt;&#xA;&lt;p&gt;Główne założenia portfela:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Horyzont czasowy &lt;strong&gt;10 lat&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;600 000 zł wkładu&lt;/strong&gt; zainwestowane w akcje (głównie spółek dywidendowych)&lt;/li&gt;&#xA;&lt;li&gt;Comiesięczne dopłaty minimum &lt;strong&gt;5500 zł&lt;/strong&gt; do portfela&lt;/li&gt;&#xA;&lt;li&gt;Spółki z giełd zagranicznych takich jak (NYSE, NASDAQ, LSE, XETRA) oraz GPW&lt;/li&gt;&#xA;&lt;li&gt;Inwestowanie wykorzystując konta &lt;strong&gt;IKE/IKZE&lt;/strong&gt; oraz zwykłe maklerskie&lt;/li&gt;&#xA;&lt;li&gt;Najważniejszy cel inwestycyjny do osiągnięcia: 2500 zł miesięcznie z dywidend&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Pozdrawiam i zachęcam do śledzenia na &lt;a href=&#34;https://x.com/dywidendowopl&#34;&gt;X&lt;/a&gt;! 👋&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/page/contact/</link>
+      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
+      <guid>//localhost:1313/page/contact/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;p&gt;Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
