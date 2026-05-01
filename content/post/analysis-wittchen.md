@@ -11,7 +11,7 @@ author = "dywidendowo"
 
 Pierwsze akcje Wittchen zagościły w portfelu dywidendowo.pl w **2023** roku. Nie był to idealny moment na wejście, jednak nie o *timing* tutaj chodzi, a długoterminowe perspektywy. Systematycznie dokupowałem walory żeby nieco uśrednić cenę w dół. Zakupu dokonałem na koncie **IKE**, jeżeli jeszcze go nie posiadasz, albo nie wiesz dlaczego warto - daj znać!
 
-Zgodnie ze screenshotem:
+Aktualnie w portfelu:
 
 - liczba akcji 237
 - średnia cena zakupy 31,13zł

@@ -18,7 +18,7 @@ Wraz z początkiem kwietnia 2024 roku zacząłem spisywać swoją drogę inwesty
 
 - dywidenda Rio Tinto LSE 318.89zł
 
-Kolejne podsumowanie już za miesiąc ✌🏼
+Kolejne podsumowanie już za miesiąc!
 ---
 
 Serdecznie zachęcam do śledzenia na platformie [X](https://x.com/dywidendowopl) 🤙🏼

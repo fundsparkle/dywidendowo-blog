@@ -22,7 +22,7 @@ W czerwcu 2024 dodałem jedną nową spółkę z branży militarnej do portfela,
 
 **Wartość portfela na koniec miesiąca**: 72 715,28 zł (licząc wraz z pozycją gotówkową)
 
-Kolejne podsumowanie już za miesiąc ✌🏼
+Kolejne podsumowanie już za miesiąc!
 
 ---
 

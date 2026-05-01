@@ -19,7 +19,7 @@ Kolejny wiosenny miesiąc tego roku za nami. Zatem pora na małe podsumowanie co
 
 **Wartość portfela na koniec miesiąca**: 61717,94 zł (zmiana m/m -1,2%, licząc bez dopłat do portfela w maju)
 
-Kolejne podsumowanie już za miesiąc ✌🏼
+Kolejne podsumowanie już za miesiąc!
 ---
 
 Serdecznie zachęcam do śledzenia na platformie [X](https://x.com/dywidendowopl) 🤙🏼
