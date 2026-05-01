@@ -1,6 +1,10 @@
 +++
 title = "British American Tobacco - 10% DY, czy nadal warto?"
-description = "British American Tobacco czyli papierosowy biznes."
+description = "British American Tobacco, czyli papierosowy biznes."
+tags = [
+    "analiza",
+    "portfel",
+]
 date = 2024-04-04T09:00:00Z
 author = "dywidendowo"
 +++
@@ -26,6 +30,8 @@ Horyzont inwestycyjny to 10 lat co przy obecnej stopie dywidendy oznacza, że za
 Zakupiono po kursie **118.30** zł (uwzględniając prowizję)
 
 Kurs **GBP/PLN 5.00**
+
+---
 
 Serdecznie zachęcam do śledzenia na platformie [X](https://x.com/dywidendowopl) 🤙🏼
 
