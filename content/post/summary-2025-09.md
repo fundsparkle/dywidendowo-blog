@@ -1,5 +1,5 @@
 +++
-title = "Podsumowanie portfela - wrzesien 2025"
+title = "Podsumowanie portfela - wrzesień 2025"
 tags = [
     "podsumowanie"
 ]

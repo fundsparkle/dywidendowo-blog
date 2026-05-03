@@ -1,9 +1,9 @@
 +++
-title = "Podsumowanie portfela - listopad 2025"
+title = "Podsumowanie portfela - grudzień 2025"
 tags = [
     "podsumowanie"
 ]
-date = 2025-11-29T09:00:00Z
+date = 2026-01-02T09:00:00Z
 author = "dywidendowo"
 +++
 
