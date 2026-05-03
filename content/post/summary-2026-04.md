@@ -41,7 +41,7 @@ Jeżeli chodzi o wypłaty dywidend w marcu wygląda to następująco:
 **Wartość portfela na koniec miesiąca**: 255 854,81 zł (wzrost o 9,32% m/m, nie licząc dopłaty w kwietniu).\
 **Wolna gotówka w portfelu** 17 490,84 zł
 
-![Obecny skład portfela](content/image/portfolio-2026-05-03.png)
+![Obecny skład portfela](../image/portfolio-2026-05-03.png)
 
 ---
 
