@@ -29,14 +29,14 @@ Zupełnie na koniec otworzyłem nową pozycję, kupując 530 akcji Rolls Royce n
 
 Jak co miesiąc dopłaciłem do portfela gotówkę 5500 zł – dopłacając do konta IBKR.
 
-Jeżeli chodzi o wypłaty dywidend w marcu wygląda to następująco:
+Jeżeli chodzi o wypłaty dywidend w kwietniu wygląda to następująco:
 
 **➡️ Otrzymane dywidendy💰:**
 
 - RIO TINTO 1021,47 zł
 - MAA 142,05 zł
 
-Łączna kwota z dywidend w tym miesiącu to **1163,52 zł.** W zeszłym roku w marcu otrzymałem 1735,11 zł dywidendy, zatem spadek y/y dywidendy to 33%.
+Łączna kwota z dywidend w tym miesiącu to **1163,52 zł.** W zeszłym roku w kwietniu otrzymałem 1735,11 zł dywidendy, zatem spadek y/y dywidendy to 33%.
 
 **Wartość portfela na koniec miesiąca**: 255 854,81 zł (wzrost o 9,32% m/m, nie licząc dopłaty w kwietniu).\
 **Wolna gotówka w portfelu** 17 490,84 zł
