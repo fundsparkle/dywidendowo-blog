@@ -12,7 +12,7 @@ Maj minął pod znakiem znacznych wzrostów na giełdzie, szczególnie amerykań
 
 **➡️ Sprzedaż/Zakup spółek z portfela.**
 
-Nowa spółka, która zagościła w portfelu jest notowana na niemickiej giełdzie Xetra. Rheinmetall (RHM) to spółka z sektora Aerospace / Defence, której kupiłem łącznie 4 akcje po średniej cenie 1238 euro za akcję. Widzę w niej spory potencjał szczególnie, że od początku roku akcje spadły o blisko 21%, budżety państw europejskich na zbrojenia wciąż rosną, a programy typu SAFE mogą być katalizatorem wzrostów.\
+Nowa spółka, która zagościła w portfelu jest notowana na niemieckiej giełdzie Xetra. Rheinmetall (RHM) to spółka z sektora Aerospace / Defence, której kupiłem łącznie 4 akcje po średniej cenie 1238 euro za akcję. Widzę w niej spory potencjał szczególnie, że od początku roku akcje spadły o blisko 21%, budżety państw europejskich na zbrojenia wciąż rosną, a programy typu SAFE mogą być katalizatorem wzrostów.\
 Dokupiłem jedną akcję Samsunga (po 2845 GBP za akcję), po ogłoszeniu świetnych wyników finansowych.\
 Następnie dokupiłem 192 akcje Rolls Royce na koncie IKE po około 13 GBP za akcję.
 
