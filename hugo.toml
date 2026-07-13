@@ -12,6 +12,7 @@ theme = "ghostwriter"
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
+    newsletter = "https://6c25405f.sibforms.com/serve/MUIFAJcs3g060UyTETaeSrZ_cY20iYN3pfl4U6rAMlHDegYUd49nxDzH5et1bzp3wwukil331cxvvLxhGSZnHx2_JmYJD_ulut0fhYc5H2KCY1WtvojUf1CgV9IzWQ8sCd9C4btQGxYOwfYXRumiFEaHKAphJAiTRqjbIVkmK0iHMh4wYeiFYzlG9NKvgwNBJJflT4AnRvP-egto"
 
 [Permalinks]
     post = "/:contentbasename/"
