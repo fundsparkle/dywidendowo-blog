@@ -37,9 +37,9 @@ Jeżeli chodzi o wypłaty dywidend w maju wygląda to następująco:
 - MRX 119 zł
 - META 39 zł
 
-Łączna kwota z dywidend w tym miesiącu to **804 zł.** W zeszłym roku w maju otrzymałem 308,40 zł dywidendy, zatem wzrost dywidendy y/y to 161%.
+Łączna kwota z dywidend w tym miesiącu to **804 zł.** W zeszłym roku w czerwcu otrzymałem 308,40 zł dywidendy, zatem wzrost dywidendy y/y to 161%.
 
-**Wartość portfela na koniec miesiąca**: 286 015,40 zł (wzrost o 3,47 m/m, nie licząc dopłaty w maju).\
+**Wartość portfela na koniec miesiąca**: 286 015,40 zł (wzrost o 3,47 m/m, nie licząc dopłaty w czerwcu).\
 **Wolna gotówka w portfelu** 1738 zł (-939,80 euro za zakup RHM, po wpłacie w lipcu ureguluję marign)
 
 ![Obecny skład portfela](../image/portfolio-2026-07-03.png)
