@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "Podsumowanie portfela - lipiec 2026"
 description = "Zaczęło bujać łajbą..." 
 tags = [
@@ -65,4 +65,4 @@ Jeśli masz ochotę wesprzeć moją twórczość - postaw mi kawę: [https://buy
 
 Serdecznie zachęcam do śledzenia na platformie [X](https://x.com/dywidendowopl) 🤙🏼
 
-*Wszelkie dane, materiały i posty znajdujące się na blogu dywidendowo.pl nie mogą być traktowane jako porada inwestycyjna lub wiążąca ocena rynku albo instrumentu inwestycyjnego.*
+*Wszelkie dane, materiały i posty znajdujące się na blogu dywidendowo.pl nie mogą być traktowane jako porada inwestycyjna lub wiążąca ocena rynku albo instrumentu inwestycyjnego.* -->
