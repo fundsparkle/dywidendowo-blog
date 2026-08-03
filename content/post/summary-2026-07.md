@@ -8,7 +8,7 @@ date = 2026-08-03T09:00:00Z
 author = "dywidendowo"
 +++
 
-Lipiec 2026 roku nie cieszył się świetną pogodą. A co z giełdą? Tutaj działo się zdecydowanie więcej i można było poczuć się jak podczas letnich wakacji nad Bałtykiem. Raz słońce i wzrosty, a następnego dnia spadki o kilkanaście procent. Na nudę nie mogliśmy narzekać. Jak radziły sobie moje portfele? 
+W lipcu 2026 roku nie mogliśmy zbytnio cieszyć się świetną pogodą. A co z giełdą? Były powody do zadowolenia z rosnących akcji? Tutaj działo się zdecydowanie więcej i można było poczuć się jak podczas letnich wakacji nad Bałtykiem. Raz słońce i wzrosty, a następnego dnia deszcz i spadki o kilkanaście procent. Na nudę nie mogliśmy narzekać. Jak radziły sobie moje portfele? 
 
 **➡️ Sprzedaż/Zakup spółek z portfela.**
 
