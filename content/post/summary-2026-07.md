@@ -14,6 +14,8 @@ Lipiec 2026 roku nie cieszył się świetną pogodą. A co z giełdą? Tutaj dzi
 
 Z uwagi na brak środków w głównym portfelu dywidendowopl i nadmiar gotówki w portfelu spekulacyjno-opcyjnym, przetransferowałem ponad 6k USD do głównego portfela w celu zakupu spółki Marex Group Ltd. Spółka była już w maju w portfelu spekulacyjnym, jednak sprzedałem ją z niewielkim zyskiem w obawie o przeciętne wyniki za Q2, spowodowane wakacyjnym marazmem na giełdzie i mniejszą zmiennością. Jednak gdy zobaczyłem co zaczęło się dziać w lipcu, kiedy VIX podskoczył do blisko 20, pomyślałem, że te wyniki wcale nie muszą być aż tak złe.  Co więcej spółka jest nadal "tania", wypłaca dywidendę i w świetnym tempie zwiększa zyski. Dodatkowo jest spółką antycykliczna (ang. countercyclical) i takiej spółki brakowało mi w układance mojego portfolio. Dlatego zakupiłem 100 akcji tej spółki do portfela long-term, z perspektywą rozbudowy pozycji w przyszłości.
 
+Po świetnych wynikach Rio Tinto, dokupiłem 15 akcji na koncie IKZE. Oprócz tego zakupiona jedna akcja CEG i RHM.
+
 **Zamknięte pozycje:**
 
 - MSFT, zaksięgowana zysk około 11% (+/- 3000zł) - sprzedaż przed wynikami finansowymi, kiedy na rynkach 29 lipcach lała się krew. Okazało się to niezbyt dobrym pomysłem, gdyż po świetnych wynikach akcje spółki wzrosły o około 15%. Niemniej z samego zakupu w okolicach 200 MA, pod koniec czerwca, byłem zadowolony. Zysk ponad 11% na kontach IKE i IKZE, w niewiele ponad miesiąc powininen zawsze cieszyć! 
