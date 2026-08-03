@@ -54,7 +54,7 @@ Z czego
 
 W lipcu zamknąłem (sprzedając opcję CALL) na Novo Nordisk, realizując stratę blisko 75% czyli 1822$, która w głównej mierze przyczyniła się do słabego zwrotu w lipcu. Nauczka na przyszłość, żeby szybciej realizować zyski (pozycja była w zysku blisko miesiąc po zakupie), bądź szybciej ciąć straty, zamiast czekać na cud. Zupełnie inaczej (lepiej) wyszło zagranie na Ondas, gdzie przy wspraciu, zakupiłem opcję CALL i dwie sesje później, zrealizowałem zysk około 25%. Zamiast łudzić się, że zysk będzie kilkukrotnie wyższy, szybko zgarnąłem solidny profit. Rozważam otwarcie podobnej pozycji po wynikach kwartalnych.
 
-Obecnie w portfelu spekulacyjnym znajdują się trzy pozycje - MP Materials (LEAPS), RocketLab (akcje spot) i Nvidia (akcje spot). Wszystkie raprtują wyniki w sierpniu, póki pozycje otwarte, nie zamierzam zamykać żadnej z nich. 
+Obecnie w portfelu spekulacyjnym znajdują się trzy pozycje - MP Materials (LEAPS), RocketLab (akcje spot) i Nvidia (akcje spot). Wszystkie raprtują wyniki w sierpniu, póki co pozycje otwarte, nie zamierzam zamykać żadnej z nich. 
 
 Taka forma spekulacji i zagrań krótkoterminowych póki co odpowiada mi najbardziej, czyli 10k zł (do 3k USD) to opcja typu LEAPS - większa dźwignia, a reszta kapitału czyli około 15k USD to zwykłe akcje.
 
