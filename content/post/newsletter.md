@@ -8,7 +8,7 @@ date = 2026-08-20T09:00:00Z
 author = "dywidendowo"
 +++
 
-<iframe width="540" height="600" src="https://6c25405f.sibforms.com/v2/serve/MUIFAJcs3g060UyTETaeSrZ_cY20iYN3pfl4U6rAMlHDegYUd49nxDzH5et1bzp3wwukil331cxvvLxhGSZnHx2_JmYJD_ulut0fhYc5H2KCY1WtvojUf1CgV9IzWQ8sCd9C4btQGxYOwfYXRumiFEaHKAphJAiTRqjbIVkmK0iHMh4wYeiFYzlG9NKvgwNBJJflT4AnRvP-egto" frameborder="0" scrolling="no" allowfullscreen style="display: block; margin: 0 auto 2rem auto; max-width: 100%;"></iframe>
+<iframe width="540" height="780" src="https://6c25405f.sibforms.com/v2/serve/MUIFAJcs3g060UyTETaeSrZ_cY20iYN3pfl4U6rAMlHDegYUd49nxDzH5et1bzp3wwukil331cxvvLxhGSZnHx2_JmYJD_ulut0fhYc5H2KCY1WtvojUf1CgV9IzWQ8sCd9C4btQGxYOwfYXRumiFEaHKAphJAiTRqjbIVkmK0iHMh4wYeiFYzlG9NKvgwNBJJflT4AnRvP-egto" frameborder="0" scrolling="no" allowfullscreen style="display: block; margin: 0 auto 2rem auto; max-width: 100%;"></iframe>
 
 Jeśli masz ochotę wesprzeć moją twórczość - postaw mi kawę: [https://buycoffee.to/dywidendowo](https://buycoffee.to/dywidendowo). Dzięki!
 
