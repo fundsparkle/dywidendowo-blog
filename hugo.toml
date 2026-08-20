@@ -16,3 +16,6 @@ theme = "ghostwriter"
 
 [Permalinks]
     post = "/:contentbasename/"
+
+[markup.goldmark.renderer]
+  unsafe = true
