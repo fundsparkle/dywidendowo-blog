@@ -1,10 +1,10 @@
 +++
-title = "Podsumowanie portfela - wrzesień 2026"
-description = "Końcówka Q3" 
+title = "Podsumowanie portfela - sierpień TESTY 2026"
+description = "Koniec wakacji" 
 tags = [
     "podsumowanie"
 ]
-date = 2026-10-01T09:00:00Z
+date = 2026-09-01T09:00:00Z
 author = "dywidendowo"
 +++
 
