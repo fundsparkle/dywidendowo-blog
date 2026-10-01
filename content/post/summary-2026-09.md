@@ -39,7 +39,7 @@ Jeżeli chodzi o wypłaty dywidend w siernpiu wygląda to następująco:
 
 Łączna kwota z dywidend w tym miesiącu to **1655,64 zł.**
 
-**Wartość portfela na koniec miesiąca**: 341 529,48 zł(spadek o 2,46% m/m, nie licząc dopłaty we wrześniu).\
+**Wartość portfela na koniec miesiąca**: 341 529,48 zł (spadek o 2,46% m/m, nie licząc dopłaty we wrześniu).\
 **Wolna gotówka w portfelu** 4 908,16 zł
 
 ![Obecny skład portfela](../image/portfolio-2026-10-01.png)
