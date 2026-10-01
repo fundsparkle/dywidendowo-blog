@@ -28,7 +28,7 @@ Po świetnych wynikach Rio Tinto, dokupiłem 15 akcji na koncie IKZE. Oprócz te
 
 Jak co miesiąc dopłaciłem do portfela gotówkę 5500 zł – dopłacając do konta IBKR. Oprócz tego przeniosłem 24k złotych z drugiego portfela, co opisałem powyżej. Na koniec miesiąca dopłaciłem extra 5500zł do portfela.
 
-Jeżeli chodzi o wypłaty dywidend w maju wygląda to następująco:
+Jeżeli chodzi o wypłaty dywidend w lipcu wygląda to następująco:
 
 **➡️ Otrzymane dywidendy💰:**
 

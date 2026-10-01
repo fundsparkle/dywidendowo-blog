@@ -28,7 +28,7 @@ Po dużych spadkach RHM dokupiłem jedną po 939,80 euro za akcję, wykorzystuj�
 
 Jak co miesiąc dopłaciłem do portfela gotówkę 5500 zł – dopłacając do konta IBKR.
 
-Jeżeli chodzi o wypłaty dywidend w maju wygląda to następująco:
+Jeżeli chodzi o wypłaty dywidend w czerwcu wygląda to następująco:
 
 **➡️ Otrzymane dywidendy💰:**
 

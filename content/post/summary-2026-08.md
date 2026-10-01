@@ -28,7 +28,7 @@ Brak.
 
 Jak co miesiąc dopłaciłem do portfela gotówkę 5500 zł – dopłacając do konta IBKR.
 
-Jeżeli chodzi o wypłaty dywidend w maju wygląda to następująco:
+Jeżeli chodzi o wypłaty dywidend w sierpniu wygląda to następująco:
 
 **➡️ Otrzymane dywidendy💰:**
 
@@ -43,7 +43,7 @@ Jeżeli chodzi o wypłaty dywidend w maju wygląda to następująco:
 
 ### Portfel spekulacyjny/opcyjny
 
-Lipiec zamknąłem na **3231,60 $ (12078 zł)**.\
+Sierpień zamknąłem na **3231,60 $ (12078 zł)**.\
 Z czego
 - +734,22 USD zysku na RKLB - zakup z portfela spekulacyjno-opcyjnego
 - +736,55 USD zysku na NVDA - zakup z portfela spekulacyjno-opcyjnego
