@@ -59,7 +59,7 @@ Z czego
 - +152,65 USD zysku na MDB - #Spekulacja10k
 - +297,99 USD zysku na MDB - zakup opcji z portfela spekulacyjno-opcyjnego, natomiast tego samego dnia sprzedałem tę opcję z uwagi na Investor Day kolejnego dnia i zamieszanie z CEO
 
-Obecnie w portfelu spekulacyjnym znajdują się trzy pozycje - AppLovin (LEAPS) i HIVE (LEAPS). Obie spółki raportowały wyniki w sierpniu. Wyniki kwartalne wszystkich trzech spółek w mojej opinii były świetne. Uważam że jest potencjał do kolejnych wzrostów i na razie nie zamykam pozycji. Spodziewam się gorszego performance'u we wrześniu, natomiast w czym bliżej końca roku, tym bardziej pozycje powinny zacząć oddawać.
+Obecnie w portfelu spekulacyjnym znajdują się dwie pozycje - AppLovin (LEAPS) i HIVE (LEAPS). Obie spółki raportowały wyniki w sierpniu. Wyniki kwartalne wszystkich trzech spółek w mojej opinii były świetne. Uważam że jest potencjał do kolejnych wzrostów i na razie nie zamykam pozycji. Spodziewam się gorszego performance'u we wrześniu, natomiast w czym bliżej końca roku, tym bardziej pozycje powinny zacząć oddawać. Obecnie obie opcje są głęboko pod wodą około -30%, natomiast negytywny (jak i pozytywny) sentyment ma to do siebie, że może utrzymywać się nader długo. Natomiast wyniki za Q3 powinny w mojej opinii być dobrym momentem na odwrócenie trendu.
 
 Kolejne podsumowanie już za miesiąc!\
 Jeśli masz ochotę wesprzeć moją twórczość - postaw mi kawę: [https://buycoffee.to/dywidendowo](https://buycoffee.to/dywidendowo). Dzięki!
